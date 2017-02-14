@@ -2,13 +2,35 @@
 
 > A curated list of great resources on HPC related stuff.
 
-## Blogs
+## General
 
 - [Linux Cluster](https://linuxcluster.wordpress.com)
-
-## Wiki
-
 - [jeffhammond/HPCInfo](https://github.com/jeffhammond/HPCInfo)
+- [HPC University](http://hpcuniversity.org/)
+- [PRACE - Training and Documentation](http://www.prace-ri.eu/training-and-documentation/)
+- [ADMIN MAGAZINE - Articles](http://www.admin-magazine.com/HPC/Articles)
+
+## News
+
+- [insideHPC](http://insidehpc.com/)
+- [HPCwire](https://www.hpcwire.com/)
+- [ADMIN MAGAZINE](http://www.admin-magazine.com/HPC/News)
+
+## Beginner
+
+- [A Beginners' Guide to High-Performance Computing](http://www.shodor.org/petascale/materials/UPModules/beginnersGuideHPC/)
+
+## Intel Xeon Phi
+
+- [Best Practice Guide - Knights Landing](http://www.prace-ri.eu/IMG/pdf/Best-Practice-Guide-Knights-Landing.pdf)
+
+## HPL
+
+- [Intel Optimized MP LINPACK Benchmark for Clusters](https://software.intel.com/en-us/node/528619)
+
+## Events
+
+- [International HPC Summer School 2017](https://confluence.xsede.org/display/IH17/International+HPC+Summer+School+2017)
 
 ## License
 
