@@ -24,6 +24,10 @@
 
 - [Best Practice Guide - Knights Landing](http://www.prace-ri.eu/IMG/pdf/Best-Practice-Guide-Knights-Landing.pdf)
 
+## CUDA
+
+- [Best Practice Guide -GPGPU](http://www.prace-ri.eu/IMG/pdf/Best-Practice-Guide-GPGPU-1.pdf) - A good overview of GPU architecture, programming models, libraries and optimization techniques
+
 ## HPL
 
 - [Intel Optimized MP LINPACK Benchmark for Clusters](https://software.intel.com/en-us/node/528619)
